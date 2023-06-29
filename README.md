@@ -19,8 +19,9 @@ Why did you choose Fintech as a career path?
 
 ### Showing level three header 
 
-[code-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/code)
-[data-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/data)
-[images-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/images)
-[references-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/references)
+Folders
+* [code-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/code)
+* [data-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/data)
+* [images-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/images)
+* [references-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/references)
 
