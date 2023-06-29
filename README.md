@@ -22,7 +22,7 @@ Why did you choose Fintech as a career path?
 # Table of Contents
 1. [Level1](#fintech-three-one)
 2. [Level2](#Showing-level-two-header)
-3. [Level3](Showing-level-three-header)
+3. [Level3](#Showing-level-three-header)
 
 Folders
 * [code-folder](https://github.com/w-attson/fintech-three-one/tree/43fdac48121a0e73320c558e45e6c9a3e6c18f8a/code)
