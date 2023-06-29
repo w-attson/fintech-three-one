@@ -11,3 +11,5 @@ What are your career goals?
 Why did you choose Fintech as a career path?
 - To learn how to create helpful financial instruments to help myself and others become financially independent.
 - To learn how to build and integrate blockchain technologies into the broader market.
+
+GIT CLI CHANGES
